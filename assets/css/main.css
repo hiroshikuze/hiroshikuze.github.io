@@ -7,23 +7,24 @@
 	The original work has been modified by Hiroshi Kuze:
 	- Font Awesome: the @import of fontawesome-all.min.css was replaced by the Solid font (woff2 only)
 	  and the icon rules actually used.
-	  Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+	  Font Awesome Free 7.3.0 by @fontawesome - https://fontawesome.com
 	  License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+	  Copyright 2026 Fonticons, Inc.
 	- Body font: "Noto Sans JP" was added to the front of the font stack.
 	- Narrow screens: the top bar is kept on phones (see the end of this file).
 */
 
-@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;font-display:block;src:url(../webfonts/fa-solid-900.woff2) format("woff2")}
+@font-face{font-family:"Font Awesome 7 Free";font-style:normal;font-weight:900;font-display:block;src:url(../webfonts/fa-solid-900.woff2) format("woff2")}
 .fa-comments:before{content:"\f086"}
 .fa-rss:before{content:"\f09e"}
 .fa-water:before{content:"\f773"}
 .fa-utensils:before{content:"\f2e7"}
 .fa-cat:before{content:"\f6be"}
-.fa-running:before{content:"\f70c"}
+.fa-person-running:before{content:"\f70c"}
 .fa-database:before{content:"\f1c0"}
-.fa-desktop:before{content:"\f108"}
-.fa-basketball-ball:before{content:"\f434"}
-.fa-paint-brush:before{content:"\f1fc"}
+.fa-desktop:before{content:"\f390"}
+.fa-basketball:before{content:"\f434"}
+.fa-paintbrush:before{content:"\f1fc"}
 .fa-window-restore:before{content:"\f2d2"}
 
 /*
@@ -2445,7 +2446,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 7 Free';
 				font-weight: 900;
 			}
 
@@ -2525,7 +2526,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Font Awesome 7 Free';
 			font-weight: 400;
 		}
 
@@ -2542,7 +2543,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Font Awesome 7 Brands';
 		}
 
 		.icon.major {

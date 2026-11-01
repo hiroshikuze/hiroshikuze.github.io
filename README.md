@@ -41,7 +41,7 @@ This repository is the source of my personal site published with GitHub Pages at
 | --- | --- |
 | jQuery 4.0.0 | MIT |
 | jquery.scrollex・jquery.scrolly・browser.js・breakpoints.js（@ajlkn） | MIT |
-| Font Awesome Free 5.15.4 | アイコンはCC BY 4.0、フォントはSIL OFL 1.1、コードはMIT |
+| Font Awesome Free 7.3.0 | アイコンはCC BY 4.0、フォントはSIL OFL 1.1、コードはMIT |
 
 Noto Sans JPはGoogle Fontsから配信されます。このリポジトリには含まれません。
 
@@ -55,7 +55,7 @@ However, the files derived from Hyperspace in `assets/`, and the markup of `inde
 | --- | --- |
 | jQuery 4.0.0 | MIT |
 | jquery.scrollex, jquery.scrolly, browser.js, breakpoints.js (@ajlkn) | MIT |
-| Font Awesome Free 5.15.4 | Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT |
+| Font Awesome Free 7.3.0 | Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT |
 
 Noto Sans JP is served from Google Fonts. It is not included in this repository.
 
