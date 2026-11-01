@@ -33,11 +33,31 @@ This repository is the source of my personal site published with GitHub Pages at
 
 このプロジェクトは[MITライセンス](LICENSE)の下で公開されています。
 
-ただし、`assets/`にあるHyperspace由来のファイルは、[CC BY 3.0](https://html5up.net/license)の条件に従います。アイコンはFont Awesome Free 5.15.4（アイコンはCC BY 4.0、フォントはSIL OFL 1.1）です。
+ただし、`assets/`にあるHyperspace由来のファイルと、それを元にした`index.html`のマークアップは、[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)の条件に従います。配布元は[HTML5 UP](https://html5up.net/license)です。
+
+`assets/`には、次の第三者のライセンスのファイルも含まれます。
+
+| 対象 | ライセンス |
+| --- | --- |
+| jQuery 3.6.0 | MIT |
+| jquery.scrollex・jquery.scrolly・browser.js・breakpoints.js（@ajlkn） | MIT |
+| Font Awesome Free 5.15.4 | アイコンはCC BY 4.0、フォントはSIL OFL 1.1、コードはMIT |
+
+Noto Sans JPはGoogle Fontsから配信されます。このリポジトリには含まれません。
 
 This project is released under the [MIT License](LICENSE).
 
-However, the files derived from Hyperspace in `assets/` follow the terms of [CC BY 3.0](https://html5up.net/license). The icons are Font Awesome Free 5.15.4 (icons: CC BY 4.0, fonts: SIL OFL 1.1).
+However, the files derived from Hyperspace in `assets/`, and the markup of `index.html` based on them, follow the terms of [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). The distributor is [HTML5 UP](https://html5up.net/license).
+
+`assets/` also contains the following third-party files.
+
+| Component | License |
+| --- | --- |
+| jQuery 3.6.0 | MIT |
+| jquery.scrollex, jquery.scrolly, browser.js, breakpoints.js (@ajlkn) | MIT |
+| Font Awesome Free 5.15.4 | Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT |
+
+Noto Sans JP is served from Google Fonts. It is not included in this repository.
 
 ## 作者 / Author
 

@@ -2,10 +2,13 @@
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	License: https://creativecommons.org/licenses/by/3.0/
 
 	The original work has been modified by Hiroshi Kuze:
 	- Font Awesome: the @import of fontawesome-all.min.css was replaced by the Solid font (woff2 only)
-	  and the icon rules actually used (Font Awesome Free 5.15.4: Icons CC BY 4.0, Fonts SIL OFL 1.1).
+	  and the icon rules actually used.
+	  Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+	  License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
 	- Body font: "Noto Sans JP" was added to the front of the font stack.
 	- Narrow screens: the top bar is kept on phones (see the end of this file).
 */
