@@ -7,6 +7,7 @@
 
 - [ヨビコのレビュー](https://yobiko.kousaku.soy/): AIアバターたちがあなたのコンテンツを好き勝手に批評するWebアプリ。
 - [feedSheet-gas](https://github.com/hiroshikuze/feedSheet-gas): Spreadsheet-driven RSS generator using Google Apps Script. Scrape web content via CSS selectors and serve as an API.
+- [Hiro2 Feed picker](https://github.com/hiroshikuze/Hiro2-Feed-Picker): An AI-powered RSS curation tool for Google Apps Script and Google Sheets. Filters articles by keywords and delivers summaries to LINE.
 - [serene-river-stream](https://hiroshikuze.github.io/serene-river-stream/): 1-hour ambient 3D river journey synchronized with your wall-clock.
 - [recipe_prompt_generator](https://hiroshikuze.github.io/recipe_prompt_generator/): This tool suggests prompts to ask AI to generate cooking recipes.
 - [anniversary-cat-worker](https://hiroshikuze.github.io/anniversary-cat-worker/): Daily cat's muse: AI-powered watercolor cat illustrations inspired by today's real-time events.

@@ -17,6 +17,7 @@
 @font-face{font-family:"Font Awesome 7 Free";font-style:normal;font-weight:900;font-display:block;src:url(../webfonts/fa-solid-900.woff2) format("woff2")}
 .fa-comments:before{content:"\f086"}
 .fa-rss:before{content:"\f09e"}
+.fa-newspaper:before{content:"\f1ea"}
 .fa-water:before{content:"\f773"}
 .fa-utensils:before{content:"\f2e7"}
 .fa-cat:before{content:"\f6be"}
