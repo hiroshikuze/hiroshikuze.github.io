@@ -1,0 +1,28 @@
+# Hiroshi Kuze
+
+> 京都を拠点に、便利なツールやOSSを開発している個人開発者のサイト。本業はインフラエンジニアで、副業として個人Webアプリを運用している。
+> Personal site of Hiroshi Kuze, a developer based in Kyoto, Japan, creating handy tools and OSS. An infrastructure engineer by day, running personal web apps on the side.
+
+## プロジェクト / Projects
+
+- [ヨビコのレビュー](https://yobiko.kousaku.soy/): AIアバターたちがあなたのコンテンツを好き勝手に批評するWebアプリ。
+- [feedSheet-gas](https://github.com/hiroshikuze/feedSheet-gas): Spreadsheet-driven RSS generator using Google Apps Script. Scrape web content via CSS selectors and serve as an API.
+- [serene-river-stream](https://hiroshikuze.github.io/serene-river-stream/): 1-hour ambient 3D river journey synchronized with your wall-clock.
+- [recipe_prompt_generator](https://hiroshikuze.github.io/recipe_prompt_generator/): This tool suggests prompts to ask AI to generate cooking recipes.
+- [anniversary-cat-worker](https://hiroshikuze.github.io/anniversary-cat-worker/): Daily cat's muse: AI-powered watercolor cat illustrations inspired by today's real-time events.
+- [initial-setup-of-new-PC](https://hiroshikuze.github.io/initial-setup-of-new-PC/): 新しいPCに必要なソフトウェアや設定をまとめたセットアップガイド。
+
+## サンプル・デモ / Samples and demos
+
+- [escape_from_tsunami_for_bing_chat](https://hiroshikuze.github.io/escape_from_tsunami_for_bing_chat/): Escape from the Tsunami: Choices that Determine Your Fate with Your Girlfriend for Bing chat.
+- [k_database](https://hiroshikuze.github.io/k_database/): CSV database software for customer management.
+- [bounce_ball](https://hiroshikuze.github.io/bounce_ball/): A bouncing ball demonstration using p5.js.
+- [Canvas_API_demo_from_typescript](https://hiroshikuze.github.io/Canvas_API_demo_from_typescript/): a drawing sample program using Canvas API of JavaScript from TypeScript.
+- [bootstrap_tab_menu_sample](https://hiroshikuze.github.io/bootstrap_tab_menu_sample/): Tab menu sample html and css by Bootstrap.
+
+## リンク / Links
+
+- [GitHub](https://github.com/hiroshikuze)
+- [X](https://x.com/hiroshikuze)
+- [Bluesky](https://bsky.app/profile/nyanmusu.bsky.social)
+- [kuje.kousakusyo.info/tools](https://kuje.kousakusyo.info/tools/)
