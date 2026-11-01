@@ -35,6 +35,7 @@
 - 文書は日本語で書き、表記は `.claude/rules/writing.md` に従う。
 - `index.html`のプロジェクト一覧を変えたら、`llms.txt`のプロジェクト一覧も同じ内容にそろえる。
 - `index.html`を更新したら、`sitemap.xml`のトップページの`<lastmod>`を、更新した日付（`YYYY-MM-DD`）に直す。別リポジトリのプロジェクトのURLには、更新日がわからないため`<lastmod>`を付けない。
+- `github.io`配下のプロジェクトが独自の`sitemap.xml`を持つ場合は、ルートの`robots.txt`に`Sitemap:`行を足す。サブパスの`robots.txt`はクローラーに読まれない。
 - `assets/`のjQueryやFont Awesomeを更新したら、READMEのバージョン表記と`assets/css/main.css`のヘッダーも直す。
 
 ## Git
