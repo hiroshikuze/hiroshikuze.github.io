@@ -1,21 +1,20 @@
-# .claude/CLAUDE.md — Directory Index
+# CLAUDE.md
 
-ルートの [`/CLAUDE.md`](./CLAUDE.md) を先に読んでください。このディレクトリ（`rules/`・`skills/`）はその階層3（領域別ルール・手順）にあたる。
+## プロジェクト概要
 
----
+- GitHub Pagesで公開する個人サイト `https://hiroshikuze.github.io/` のリポジトリ（`hiroshikuze/hiroshikuze.github.io`）です。
+- 目的は、検索エンジン（SEO）とAI検索（AIO）向けの対策です。
+- 現時点は静的ファイルのみで、ビルド工程はありません。デフォルトブランチのルートにある `index.html` が配信されます。
+- SEO用ファイル（`robots.txt`・`sitemap.xml`・`llms.txt`・構造化データなど）は今後作成する予定です。
 
-## このディレクトリの構成
+## 作業の進め方
 
-```text
-(これから作成)
-```
+- セッション開始時は `.claude/CLAUDE.md`（索引）と `.claude/revision_log.md` を読みます。
+- 作業内容に応じて `.claude/rules/` 配下の該当ルールを読みます。
+- 文書は日本語で書き、表記は `.claude/rules/writing.md` に従います。
 
-## いつ何を読むか
+## Git
 
-| 状況 | 読むファイル |
-| --- | --- |
-| セッション開始時 | `./.claude/revision_log.md` → ルート `CLAUDE.md` |
-| コーディング作業前 | `rules/coding.md` |
-| Git 操作前 | `rules/git.md` |
-| `docs/`配下にファイル作成 | `rules/docs-workflow.md` |
-| Markdown・日本語文書を書くとき | `rules/writing.md` |
+- 作業ブランチは `claude/<slug>` の形式で作ります。
+- `main` への直接プッシュはしません（ユーザーの明示的な許可がある場合を除く）。
+- PRは、ユーザーから依頼があったときだけ作成します。
