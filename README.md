@@ -24,12 +24,20 @@ This repository is the source of my personal site published with GitHub Pages at
   - Structured data (JSON-LD: WebSite, Person)
 - アクセス解析：umami
   - Analytics: umami
+- デザイン：[Hyperspace](https://html5up.net/hyperspace)（HTML5 UP）を改変して使用
+  - Design: modified [Hyperspace](https://html5up.net/hyperspace) by HTML5 UP
+- jQuery・Font Awesome Free（アイコン）・Noto Sans JP（Google Fonts）
+  - jQuery, Font Awesome Free (icons) and Noto Sans JP (Google Fonts)
 
 ## ライセンス / License
 
 このプロジェクトは[MITライセンス](LICENSE)の下で公開されています。
 
+ただし、`assets/`にあるHyperspace由来のファイルは、[CC BY 3.0](https://html5up.net/license)の条件に従います。アイコンはFont Awesome Free 5.15.4（アイコンはCC BY 4.0、フォントはSIL OFL 1.1）です。
+
 This project is released under the [MIT License](LICENSE).
+
+However, the files derived from Hyperspace in `assets/` follow the terms of [CC BY 3.0](https://html5up.net/license). The icons are Font Awesome Free 5.15.4 (icons: CC BY 4.0, fonts: SIL OFL 1.1).
 
 ## 作者 / Author
 
