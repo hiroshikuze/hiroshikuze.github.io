@@ -6,7 +6,6 @@
 - 目的は検索エンジン（SEO）とAI検索（AIO）向けの対策。
 - 静的ファイルのみでビルド工程はない。デフォルトブランチ `main` のルートにある `index.html` が配信される。
 - アクセス解析はumamiを使う。Google Analyticsは使わない。
-- 今後作成予定（作成後はこの行を削除する）: Google Search Consoleへの登録・Bing Webmaster Toolsへの登録。
 
 ## 構成
 
