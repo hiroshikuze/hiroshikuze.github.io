@@ -1,0 +1,19 @@
+# OS が生成するファイル
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# エディタの設定
+.vscode/
+.idea/
+
+# 個人用の Claude Code 設定（共有しない）
+.claude/settings.local.json
+CLAUDE.local.md
+
+# 作業用の一時ファイル（スクリーンショットなど）
+/tmp/
+
+# 秘密情報
+.env
+.env.*
