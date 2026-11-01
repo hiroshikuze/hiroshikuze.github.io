@@ -39,7 +39,7 @@ This repository is the source of my personal site published with GitHub Pages at
 
 | 対象 | ライセンス |
 | --- | --- |
-| jQuery 3.6.0 | MIT |
+| jQuery 4.0.0 | MIT |
 | jquery.scrollex・jquery.scrolly・browser.js・breakpoints.js（@ajlkn） | MIT |
 | Font Awesome Free 5.15.4 | アイコンはCC BY 4.0、フォントはSIL OFL 1.1、コードはMIT |
 
@@ -53,7 +53,7 @@ However, the files derived from Hyperspace in `assets/`, and the markup of `inde
 
 | Component | License |
 | --- | --- |
-| jQuery 3.6.0 | MIT |
+| jQuery 4.0.0 | MIT |
 | jquery.scrollex, jquery.scrolly, browser.js, breakpoints.js (@ajlkn) | MIT |
 | Font Awesome Free 5.15.4 | Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT |
 
