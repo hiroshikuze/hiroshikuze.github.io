@@ -21,6 +21,11 @@
 - [Canvas_API_demo_from_typescript](https://hiroshikuze.github.io/Canvas_API_demo_from_typescript/): a drawing sample program using Canvas API of JavaScript from TypeScript.
 - [bootstrap_tab_menu_sample](https://hiroshikuze.github.io/bootstrap_tab_menu_sample/): Tab menu sample html and css by Bootstrap.
 
+## 各プロジェクトのllms.txt / Project llms.txt
+
+- [ヨビコのレビュー](https://yobiko.kousaku.soy/llms.txt): 使い方と料金（クレジット制）の説明。
+- [anniversary-cat-worker](https://hiroshikuze.github.io/anniversary-cat-worker/llms.txt): 主要ページとフィードの説明。
+
 ## リンク / Links
 
 - [GitHub](https://github.com/hiroshikuze)
