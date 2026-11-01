@@ -1,4 +1,10 @@
 <!doctype html>
+<!--
+  Design: Hyperspace by HTML5 UP (https://html5up.net/hyperspace)
+  Free for personal and commercial use under the CCA 3.0 license (https://html5up.net/license)
+  License: https://creativecommons.org/licenses/by/3.0/
+  The original work has been modified by Hiroshi Kuze.
+-->
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
@@ -47,43 +53,135 @@
   }
   </script>
   <script defer src="https://cloud.umami.is/script.js" data-website-id="bfa2a00d-45d5-49d3-b104-9187d9378729"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
 </head>
-<body>
-  <main>
-    <h1>Hiroshi Kuze</h1>
+<body class="is-preload">
 
-    <section>
-      <h2>自己紹介 / About</h2>
-      <p>京都を拠点に、便利なツールやOSSを開発しています。本業はインフラエンジニアで、副業として個人Webアプリを運用しています。</p>
-      <p>I'm a developer based in Kyoto, creating handy tools and OSS. By day, an infrastructure engineer. By night, running my own web apps.</p>
+  <!-- Sidebar -->
+  <section id="sidebar">
+    <div class="inner">
+      <nav>
+        <ul>
+          <li><a href="#intro">自己紹介</a></li>
+          <li><a href="#projects">プロジェクト</a></li>
+          <li><a href="#links">リンク</a></li>
+        </ul>
+      </nav>
+    </div>
+  </section>
+
+  <!-- Wrapper -->
+  <div id="wrapper">
+
+    <!-- Intro -->
+    <section id="intro" class="wrapper style1 fullscreen fade-up">
+      <div class="inner">
+        <h1>Hiroshi Kuze</h1>
+        <h2>自己紹介 / About</h2>
+        <p>京都を拠点に、便利なツールやOSSを開発しています。本業はインフラエンジニアで、副業として個人Webアプリを運用しています。</p>
+        <p>I'm a developer based in Kyoto, creating handy tools and OSS. By day, an infrastructure engineer. By night, running my own web apps.</p>
+      </div>
     </section>
 
-    <section>
-      <h2>プロジェクト / Projects</h2>
-      <ul>
-        <li><a href="https://yobiko.kousaku.soy/">ヨビコのレビュー</a>：AIアバターたちがあなたのコンテンツを好き勝手に批評する。</li>
-        <li><a href="https://github.com/hiroshikuze/feedSheet-gas">feedSheet-gas</a>：Spreadsheet-driven RSS generator using Google Apps Script. Scrape web content via CSS selectors and serve as an API.</li>
-        <li><a href="https://hiroshikuze.github.io/serene-river-stream/">serene-river-stream</a>：1-hour ambient 3D river journey synchronized with your wall-clock.</li>
-        <li><a href="https://hiroshikuze.github.io/recipe_prompt_generator/">recipe_prompt_generator</a>：This tool suggests prompts to ask AI to generate cooking recipes.</li>
-        <li><a href="https://hiroshikuze.github.io/anniversary-cat-worker/">anniversary-cat-worker</a>：Daily cat's muse: AI-powered watercolor cat illustrations inspired by today's real-time events.</li>
-        <li><a href="https://hiroshikuze.github.io/escape_from_tsunami_for_bing_chat/">escape_from_tsunami_for_bing_chat</a>：Escape from the Tsunami: Choices that Determine Your Fate with Your Girlfriend for Bing chat.</li>
-        <li><a href="https://hiroshikuze.github.io/k_database/">k_database</a>：CSV database software for customer management.</li>
-        <li><a href="https://hiroshikuze.github.io/initial-setup-of-new-PC/">initial-setup-of-new-PC</a>：新しいPCに必要なソフトウェアや設定をまとめたセットアップガイド。</li>
-        <li><a href="https://hiroshikuze.github.io/bounce_ball/">bounce_ball</a>：A bouncing ball demonstration using p5.js.</li>
-        <li><a href="https://hiroshikuze.github.io/Canvas_API_demo_from_typescript/">Canvas_API_demo_from_typescript</a>：a drawing sample program using Canvas API of JavaScript from TypeScript.</li>
-        <li><a href="https://hiroshikuze.github.io/bootstrap_tab_menu_sample/">bootstrap_tab_menu_sample</a>：Tab menu sample html and css by Bootstrap.</li>
+    <!-- Projects -->
+    <section id="projects" class="wrapper style3 fade-up">
+      <div class="inner">
+        <h2>プロジェクト / Projects</h2>
+        <div class="features">
+          <section>
+            <span class="icon solid major fa-comments" aria-hidden="true"></span>
+            <h3><a href="https://yobiko.kousaku.soy/">ヨビコのレビュー</a></h3>
+            <p>AIアバターたちがあなたのコンテンツを好き勝手に批評する。</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-rss" aria-hidden="true"></span>
+            <h3><a href="https://github.com/hiroshikuze/feedSheet-gas">feedSheet-gas</a></h3>
+            <p>Spreadsheet-driven RSS generator using Google Apps Script. Scrape web content via CSS selectors and serve as an API.</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-water" aria-hidden="true"></span>
+            <h3><a href="https://hiroshikuze.github.io/serene-river-stream/">serene-river-stream</a></h3>
+            <p>1-hour ambient 3D river journey synchronized with your wall-clock.</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-utensils" aria-hidden="true"></span>
+            <h3><a href="https://hiroshikuze.github.io/recipe_prompt_generator/">recipe_prompt_generator</a></h3>
+            <p>This tool suggests prompts to ask AI to generate cooking recipes.</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-cat" aria-hidden="true"></span>
+            <h3><a href="https://hiroshikuze.github.io/anniversary-cat-worker/">anniversary-cat-worker</a></h3>
+            <p>Daily cat's muse: AI-powered watercolor cat illustrations inspired by today's real-time events.</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-person-running" aria-hidden="true"></span>
+            <h3><a href="https://hiroshikuze.github.io/escape_from_tsunami_for_bing_chat/">escape_from_tsunami_for_bing_chat</a></h3>
+            <p>Escape from the Tsunami: Choices that Determine Your Fate with Your Girlfriend for Bing chat.</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-database" aria-hidden="true"></span>
+            <h3><a href="https://hiroshikuze.github.io/k_database/">k_database</a></h3>
+            <p>CSV database software for customer management.</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-desktop" aria-hidden="true"></span>
+            <h3><a href="https://hiroshikuze.github.io/initial-setup-of-new-PC/">initial-setup-of-new-PC</a></h3>
+            <p>新しいPCに必要なソフトウェアや設定をまとめたセットアップガイド。</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-basketball" aria-hidden="true"></span>
+            <h3><a href="https://hiroshikuze.github.io/bounce_ball/">bounce_ball</a></h3>
+            <p>A bouncing ball demonstration using p5.js.</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-paintbrush" aria-hidden="true"></span>
+            <h3><a href="https://hiroshikuze.github.io/Canvas_API_demo_from_typescript/">Canvas_API_demo_from_typescript</a></h3>
+            <p>a drawing sample program using Canvas API of JavaScript from TypeScript.</p>
+          </section>
+          <section>
+            <span class="icon solid major fa-window-restore" aria-hidden="true"></span>
+            <h3><a href="https://hiroshikuze.github.io/bootstrap_tab_menu_sample/">bootstrap_tab_menu_sample</a></h3>
+            <p>Tab menu sample html and css by Bootstrap.</p>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <!-- Links -->
+    <section id="links" class="wrapper style1 fade-up">
+      <div class="inner">
+        <h2>リンク / Links</h2>
+        <ul class="actions">
+          <li><a href="https://github.com/hiroshikuze" class="button">GitHub</a></li>
+          <li><a href="https://x.com/hiroshikuze" class="button">X</a></li>
+          <li><a href="https://bsky.app/profile/nyanmusu.bsky.social" class="button">Bluesky</a></li>
+          <li><a href="https://kuje.kousakusyo.info/tools/" class="button">自作ツール集</a></li>
+        </ul>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Footer -->
+  <footer id="footer" class="wrapper style1-alt">
+    <div class="inner">
+      <ul class="menu">
+        <li>&copy; Hiroshi Kuze</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
       </ul>
-    </section>
+    </div>
+  </footer>
 
-    <section>
-      <h2>リンク / Links</h2>
-      <ul>
-        <li><a href="https://github.com/hiroshikuze">GitHub</a></li>
-        <li><a href="https://x.com/hiroshikuze">X</a></li>
-        <li><a href="https://bsky.app/profile/nyanmusu.bsky.social">Bluesky</a></li>
-        <li><a href="https://kuje.kousakusyo.info/tools/">kuje.kousakusyo.info/tools</a></li>
-      </ul>
-    </section>
-  </main>
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.scrollex.min.js"></script>
+  <script src="assets/js/jquery.scrolly.min.js"></script>
+  <script src="assets/js/browser.min.js"></script>
+  <script src="assets/js/breakpoints.min.js"></script>
+  <script src="assets/js/main.js"></script>
+
 </body>
 </html>
